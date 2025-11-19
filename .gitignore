@@ -3,3 +3,7 @@
 *.swo
 *~
 
+# Xcode
+*.xcuserdata
+*.xcworkspace/xcuserdata/
+
